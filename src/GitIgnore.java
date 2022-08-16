@@ -6,8 +6,12 @@ public class GitIgnore {
 
 
         System.out.println("git ignore deneme branch");
+
         System.out.println("git ignore deneme master");
         System.out.println("git ignore deneme master2");
+
+        System.out.println("git ignore deneme branch2");
+
 
     }
 }
